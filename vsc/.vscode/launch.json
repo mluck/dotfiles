@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "preprocess_benchmark.py",
+            "type": "python",
+            "request": "launch",
+            "program": "/foss_fim/tests/preprocess/preprocess_benchmark.py",
+            "console": "integratedTerminal",
+            "args": ["-b", "/data/test_cases_mine/12090301_ble/12090301_Depth002/ble_dep0_2pct.tif", "-r", "/data/outputs/template_MS/12090301/rem_zeroed_masked.tif", "-o", "/data/test_cases_mine/12090301_ble/ble_huc_12090301_depth_500yr.tif"],
+            "justMyCode": false
+        }
+    ]
+}
