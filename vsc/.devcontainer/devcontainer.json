@@ -26,7 +26,8 @@
 
 	// Uncomment the next line to run commands after the container is created - for example installing curl.
 	// "postCreateCommand": "apt-get update && apt-get install -y curl",
-	//"postCreateCommand": "apt-get update && apt-get install -y git",
+	"postCreateCommand": "apt-get update && apt-get install -y git",
+	"postAttachCommand": "/usr/bin/python3 /root/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py pip install -U pytest --user"
 	//"postAttachCommand": "pip install -U pylint --user"
 
 	// Uncomment when using a ptrace-based debugger like C++, Go, and Rust
