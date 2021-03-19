@@ -11,9 +11,9 @@ My computer is Mac OS on which I have the following setup. You'll notice that I 
 - Terminal (shell) customization
     - oh-my-zsh: `brew install zsh`
     - powerlevel10k
-- GitHub 
-- Docker
-- Visual Studio Code
+- [GitHub Desktop](https://desktop.github.com/)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop)
+- [Visual Studio Code](https://code.visualstudio.com/)
   - Extensions
     - Python (ms-python.python)
     - GitHub (github.vscode-pull-request-github)
