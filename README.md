@@ -4,9 +4,9 @@ This is a repository to store information regarding my personal computer environ
 
 My computer is Mac OS on which I have the following setup. You'll notice that I don't have Python installed on my computer. Although I used to be an Emacs user, I now do my development [in Visual Studio Code inside Docker containers](https://code.visualstudio.com/docs/remote/containers).
 
-- Homebrew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+- [Homebrew](https://github.com/Homebrew/brew): `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
-- iTerm2: `brew install --cask iterm2`
+- [iTerm2](https://iterm2.com/): `brew install --cask iterm2`
     - Terminal (shell) customization
         - [oh-my-zsh](https://ohmyz.sh/): `brew install zsh`
         - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
