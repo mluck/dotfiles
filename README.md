@@ -2,7 +2,7 @@
 
 This is a repository to store information regarding my personal computer environment including applications and configurations/preferences.
 
-My computer is Mac OS on which I have the following setup. You'll notice that I don't have Python installed on my computer. Although I used to be an Emacs user, I now do my development [in Visual Studio Code inside Docker containers](https://code.visualstudio.com/docs/remote/containers).
+My computer is Mac OS on which I have the following setup. You'll notice that I don't have Python installed on my computer. Although I used to be an [Emacs](https://www.gnu.org/software/emacs/) user, I now do my development in [Visual Studio Code inside Docker containers](https://code.visualstudio.com/docs/remote/containers).
 
 - [Homebrew](https://github.com/Homebrew/brew): `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
