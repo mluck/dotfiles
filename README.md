@@ -7,10 +7,9 @@ My computer is Mac OS on which I have the following setup. You'll notice that I 
 - Homebrew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 - iTerm2: `brew install --cask iterm2`
-
-- Terminal (shell) customization
-    - oh-my-zsh: `brew install zsh`
-    - powerlevel10k
+    - Terminal (shell) customization
+        - [oh-my-zsh](https://ohmyz.sh/): `brew install zsh`
+        - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [GitHub Desktop](https://desktop.github.com/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -18,6 +17,3 @@ My computer is Mac OS on which I have the following setup. You'll notice that I 
     - Python (ms-python.python)
     - GitHub (github.vscode-pull-request-github)
     - Docker (ms-azuretools.vscode-docker)
-  - Tools
-    - Pylint
-    - Pytest
